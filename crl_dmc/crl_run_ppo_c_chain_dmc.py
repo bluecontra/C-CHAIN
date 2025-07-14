@@ -24,7 +24,7 @@ class Args:
     target_rel_loss_scale: float = 0.05
 
     # Algorithm specific arguments
-    alg: str = 'ppo_relu_pcra'
+    alg: str = 'ppo_relu_cchain'
     """the name of designated algorithm"""
     env_id: str = "quadruped"
     """the id of the environment"""
