@@ -43,7 +43,7 @@ if __name__ == '__main__':
     parser.add_argument('--alg', type=str, default='ppo_cchain', help='algorithm name')
     parser.add_argument('--target_p_rel_loss_scale', type=float, default=10000, help='the target policy relative scale for chain')
     parser.add_argument('--opt', type=str, default='base', help='optimizer to use')
-    parser.add_argument('--lr', type=float, default=0.01, help='learning rate')
+    parser.add_argument('--lr', type=float, default=0.001, help='learning rate')
     parser.add_argument('--scale_up_ratio', type=int, default=1, help='scale up ratio (via widening)')
     parser.add_argument('--act_f', type=str, default='l_relu', help='activation function')
     parser.add_argument('--batch_size', type=int, default=32, help='batch_size')
