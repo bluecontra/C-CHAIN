@@ -48,31 +48,51 @@ We recommend to follow the installation guidance of MinAtar env and then run our
 
 ### Comparative Evaluation of C-CHAIN @ Continual Gym Classic Control
 
-![avatar](assets/results_for_crl_gym_control.png)
-![avatar](assets/curves_for_crl_gym_control.png)
+<p align="center">
+  <img src="assets/results_for_crl_gym_control.png" width="100%" />
+</p>
+<p align="center">
+  <img src="assets/curves_for_crl_gym_control.png" width="85%" />
+</p>
 
 ### Comparative Evaluation of C-CHAIN @ Continual ProGen
 
-![avatar](assets/reliable_metrics_for_crl_procgen.png)
-![avatar](assets/results_for_crl_procgen.png)
-![avatar](assets/curves_for_crl_procgen.png)
+<p align="center">
+  <img src="assets/reliable_metrics_for_crl_procgen.png" width="100%" />
+</p>
+<p align="center">
+  <img src="assets/results_for_crl_procgen.png" width="100%" />
+</p>
+<p align="center">
+  <img src="assets/curves_for_crl_procgen.png" width="85%" />
+</p>
 
 ### Comparative Evaluation of C-CHAIN @ Continual DMC
 
-![avatar](assets/results_for_crl_dmc.png)
+<p align="center">
+  <img src="assets/results_for_crl_dmc.png" width="80%" />
+</p>
 
 ### Comparative Evaluation of C-CHAIN @ Continual DMC
 
-![avatar](assets/results_for_crl_minatar.png)
+<p align="center">
+  <img src="assets/results_for_crl_minatar.png" width="70%" />
+</p>
 
 ### Empirical NTK Analysis for C-CHAIN v.s. Vanilla
 
-![avatar](assets/curves_for_ntk_ana.png)
-![avatar](assets/vis_for_ntk_ana.png)
+<p align="center">
+  <img src="assets/curves_for_ntk_ana.png" width="85%" />
+</p>
+<p align="center">
+  <img src="assets/vis_for_ntk_ana.png" width="85%" />
+</p>
 
 ### Gradient Analysis of C-CHAIN
 
-![avatar](assets/grad_ana.png)
+<p align="center">
+  <img src="assets/grad_ana.png" width="85%" />
+</p>
 
 Please refer to our [paper](https://openreview.net/pdf?id=EkoFXfSauv) for complete results.
 
